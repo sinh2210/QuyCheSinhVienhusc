@@ -1,0 +1,252 @@
+[
+  {
+    "id": "q001",
+    "question": "Đại học Huế được thành lập vào năm nào và tiền thân là tổ chức gì?",
+    "ground_truth": "Đại học Huế có tiền thân là Viện Đại học Huế, được thành lập năm 1957. Sau này, Đại học Huế được tái thành lập theo Nghị định 30/CP ngày 04/4/1994, văn bản này do Thủ tướng Chính phủ Võ Văn Kiệt ký ban hành tại Hà Nội."
+  },
+  {
+    "id": "q002",
+    "question": "Hiện nay Đại học Huế có bao nhiêu đơn vị thành viên? Hãy liệt kê.",
+    "ground_truth": "Đại học Huế hiện có 09 đơn vị thành viên: Trường Đại học Khoa học, Sư phạm, Y Dược, Nông lâm, Nghệ thuật, Kinh tế, Ngoại ngữ, Luật và Trường Du lịch. Các trường này đều nằm trên địa bàn thành phố Huế và chịu sự quản lý trực tiếp của Bộ Giáo dục và Đào tạo."
+  },
+  {
+    "id": "q003",
+    "question": "Trường Đại học Khoa học tập trung đào tạo những lĩnh vực nào?",
+    "ground_truth": "Trường là cơ sở đào tạo đa ngành bao gồm 3 nhóm chính: Khoa học tự nhiên (KHTN), Khoa học xã hội - nhân văn (KHXH-NV), và Kỹ thuật công nghệ. Đây là định hướng chiến lược phát triển đến năm 2030 của Đại học Huế."
+  },
+  {
+    "id": "q004",
+    "question": "Quy mô người học hiện tại của Trường Đại học Khoa học là bao nhiêu?",
+    "ground_truth": "Quy mô đào tạo của Trường hiện nay là gần 7000 người học, bao gồm cả sinh viên đại học chính quy, cao học và nghiên cứu sinh đến từ các tỉnh miền Trung và Tây Nguyên."
+  },
+  {
+    "id": "q005",
+    "question": "Sinh viên tra cứu thông tin chính thức qua những website nào?",
+    "ground_truth": "Sinh viên cần tra cứu qua: Website Đại học Huế (https://hueuni.edu.vn); Website của Trường (http://husc.hueuni.edu.vn); và Fanpage Trường (https://www.facebook.com/husc.edu.vn). Hệ thống website này hoạt động 24/7 để phục vụ người học."
+  },
+  {
+    "id": "q006",
+    "question": "Theo quy chế, sinh viên được định nghĩa là ai?",
+    "ground_truth": "Sinh viên là người đang học đại học hệ chính quy tại Trường ĐH Khoa học. Sinh viên là trung tâm của các hoạt động giáo dục, được bảo đảm điều kiện thực hiện nhiệm vụ và quyền theo quy định của Luật Giáo dục Đại học sửa đổi."
+  },
+  {
+    "id": "q007",
+    "question": "Công tác sinh viên bao gồm những hoạt động gì?",
+    "ground_truth": "Công tác sinh viên là hoạt động giáo dục, tuyên truyền, quản lý, hỗ trợ và dịch vụ dành cho sinh viên. Công tác này phải đảm bảo đúng chủ trương, dân chủ, khách quan, công bằng, công khai và hiệu quả, tuân thủ theo các văn bản hướng dẫn của Bộ."
+  },
+  {
+    "id": "q008",
+    "question": "Nêu các nhiệm vụ cơ bản của sinh viên.",
+    "ground_truth": "Nhiệm vụ bao gồm: 1. Chấp hành pháp luật, nội quy; 2. Học tập, rèn luyện; 3. Tôn trọng nhà giáo; 4. Giữ gìn tài sản; 5. Khám sức khỏe; 6. Đóng học phí, BHYT đầy đủ và đúng hạn theo quy định tài chính của nhà trường; 7. Tham gia tình nguyện; 8. Nghĩa vụ quân sự."
+  },
+  {
+    "id": "q009",
+    "question": "Sinh viên có quyền lợi gì trong việc học tập?",
+    "ground_truth": "Sinh viên có quyền: Được nhận vào học đúng ngành; cung cấp thông tin đào tạo; đăng ký môn học; sử dụng thư viện, thiết bị hiện đại đạt chuẩn quốc gia; tham gia nghiên cứu khoa học; và đăng ký đi học nước ngoài theo các chương trình trao đổi."
+  },
+  {
+    "id": "q010",
+    "question": "Sinh viên có được phép góp ý kiến quản lý nhà trường không?",
+    "ground_truth": "Có. Sinh viên có quyền đóng góp ý kiến vào công tác quản lý nhà trường thông qua các hội nghị đối thoại và thực hiện quyền khiếu nại theo quy định pháp luật."
+  },
+  {
+    "id": "q011",
+    "question": "Các hành vi gian lận nào bị cấm trong thi cử?",
+    "ground_truth": "Nghiêm cấm các hành vi: Quay cóp tài liệu, học hộ, thi hộ, nhờ người khác thi hộ, làm hộ tiểu luận, đồ án. Đây là những hành vi vi phạm đạo đức học đường nghiêm trọng và sẽ bị xử lý kỷ luật nặng."
+  },
+  {
+    "id": "q012",
+    "question": "Quy định về uống rượu bia và hút thuốc trong trường như thế nào?",
+    "ground_truth": "Nghiêm cấm hút thuốc lá trong khuôn viên trường. Tuyệt đối cấm uống rượu bia trong trường và cấm say rượu bia khi đến lớp học, nhằm xây dựng môi trường văn hóa học đường lành mạnh, văn minh."
+  },
+  {
+    "id": "q013",
+    "question": "Có bao nhiêu hình thức kỷ luật sinh viên và đó là những hình thức nào?",
+    "ground_truth": "Có 4 hình thức kỷ luật từ thấp đến cao: 1. Khiển trách; 2. Cảnh cáo; 3. Đình chỉ học tập có thời hạn; 4. Buộc thôi học. Các hình thức này được áp dụng dựa trên mức độ vi phạm của sinh viên."
+  },
+  {
+    "id": "q014",
+    "question": "Khi nào sinh viên bị buộc thôi học?",
+    "ground_truth": "Sinh viên bị buộc thôi học khi: Đang bị đình chỉ mà vẫn vi phạm; Vi phạm lần đầu đặc biệt nghiêm trọng; Hoặc bị phạt tù giam theo bản án của tòa án nhân dân có hiệu lực pháp luật."
+  },
+  {
+    "id": "q015",
+    "question": "Kỷ luật khiển trách sẽ hết hiệu lực sau bao lâu?",
+    "ground_truth": "Kỷ luật Khiển trách chấm dứt hiệu lực sau 3 tháng nếu không tái phạm. Tuy nhiên, vết kỷ luật vẫn được lưu trong hồ sơ quản lý sinh viên và sinh viên sẽ mất quyền lợi xét học bổng trong học kỳ đó."
+  },
+  {
+    "id": "q016",
+    "question": "Điều kiện để sinh viên đạt danh hiệu khen thưởng cuối năm là gì?",
+    "ground_truth": "Sinh viên phải đạt kết quả học tập và rèn luyện từ loại Khá trở lên. Ngoài ra, sinh viên không được bị kỷ luật từ mức khiển trách và không có điểm thi lại (lần 1) dưới trung bình ở bất kỳ môn học nào trong năm."
+  },
+  {
+    "id": "q017",
+    "question": "Sinh viên bị khiển trách có được nhận học bổng không?",
+    "ground_truth": "Không. Theo quy định tài chính hiện hành, sinh viên bị kỷ luật từ mức khiển trách trở lên sẽ bị cắt toàn bộ học bổng khuyến khích học tập trong học kỳ bị xử lý kỷ luật."
+  },
+  {
+    "id": "q018",
+    "question": "Điểm rèn luyện được chấm dựa trên thang điểm bao nhiêu và những tiêu chí nào?",
+    "ground_truth": "Thang điểm 100, chia thành 5 nội dung: 1. Ý thức học tập (20đ); 2. Chấp hành nội quy (25đ); 3. Hoạt động phong trào (20đ); 4. Ý thức công dân (25đ); 5. Cán bộ lớp (10đ). Quy chế này được áp dụng thống nhất toàn Đại học Huế."
+  },
+  {
+    "id": "q019",
+    "question": "Xếp loại kết quả rèn luyện gồm những mức nào?",
+    "ground_truth": "Gồm 6 mức: Xuất sắc (90-100), Tốt (80-89), Khá (65-79), Trung bình (50-64), Yếu (35-49), và Kém (<35). Kết quả này sẽ được ghi vào bảng điểm toàn khóa khi ra trường."
+  },
+  {
+    "id": "q020",
+    "question": "Nếu bị kỷ luật Cảnh cáo, sinh viên chỉ được xếp loại rèn luyện tối đa là gì?",
+    "ground_truth": "Nếu bị Cảnh cáo, sinh viên không được xếp loại rèn luyện quá mức Trung bình, bất kể tổng điểm chấm thực tế có cao hơn mức quy định này."
+  },
+  {
+    "id": "q021",
+    "question": "Chương trình cử nhân 4 năm yêu cầu tối thiểu bao nhiêu tín chỉ?",
+    "ground_truth": "Yêu cầu tối thiểu là 120 tín chỉ đối với hệ cử nhân (4 năm). Đối với kỹ sư là 150 tín chỉ. Con số này chưa bao gồm các học phần Giáo dục Quốc phòng và Giáo dục Thể chất."
+  },
+  {
+    "id": "q022",
+    "question": "Một tín chỉ tương đương bao nhiêu giờ tự học?",
+    "ground_truth": "01 tín chỉ tương đương với 30 giờ tự học nếu có hướng dẫn, hoặc 45 giờ thực tập, hoặc 15 giờ lý thuyết trên lớp theo chuẩn tín chỉ quốc tế được Bộ Giáo dục quy định."
+  },
+  {
+    "id": "q023",
+    "question": "Thời gian tối đa để hoàn thành khóa học 4 năm là mấy năm?",
+    "ground_truth": "Thời gian tối đa là 8 năm (gấp 02 lần thời gian thiết kế 4 năm). Nếu quá thời hạn này, sinh viên sẽ bị buộc thôi học và xóa tên khỏi danh sách."
+  },
+  {
+    "id": "q024",
+    "question": "Sinh viên có thể đăng ký tối thiểu bao nhiêu tín chỉ một học kỳ?",
+    "ground_truth": "Tối thiểu 2/3 khối lượng trung bình của một học kỳ theo kế hoạch chuẩn. Quy định này giúp đảm bảo tiến độ học tập của sinh viên không bị chậm trễ quá nhiều so với khóa học."
+  },
+  {
+    "id": "q025",
+    "question": "Muốn nhận học bổng, sinh viên phải đăng ký ít nhất bao nhiêu tín chỉ?",
+    "ground_truth": "Phải đăng ký tối thiểu 15 tín chỉ trong học kỳ đó (không tính các học phần GDQP, GDTC). Đây là điều kiện tiên quyết để tham gia xét duyệt danh sách cấp học bổng hàng kỳ."
+  },
+  {
+    "id": "q026",
+    "question": "Điểm kết thúc học phần chiếm bao nhiêu phần trăm tổng điểm?",
+    "ground_truth": "Điểm thi kết thúc học phần chiếm trọng số tối thiểu 50%. Điểm quá trình chiếm tối đa 50%. Tỷ lệ cụ thể do giảng viên đề xuất trong đề cương chi tiết học phần."
+  },
+  {
+    "id": "q027",
+    "question": "Thang điểm 4 được quy đổi từ điểm hệ 10 như thế nào?",
+    "ground_truth": "Điểm A (8.5-10) tương đương 4.0; Điểm B (7.0-8.4) tương đương 3.0; Điểm C (5.5-6.9) tương đương 2.0; Điểm D (4.0-5.4) tương đương 1.0; Điểm F (<4.0) là 0."
+  },
+  {
+    "id": "q028",
+    "question": "Điều kiện về điểm tích lũy để được làm khóa luận tốt nghiệp là bao nhiêu?",
+    "ground_truth": "Sinh viên phải có Điểm trung bình tích lũy >= 2.00 (thang 4) và không nợ quá 10 tín chỉ môn chung mới được đăng ký làm Khóa luận tốt nghiệp vào kỳ cuối."
+  },
+  {
+    "id": "q029",
+    "question": "Sinh viên cần đạt những chứng chỉ phụ nào để tốt nghiệp?",
+    "ground_truth": "Cần có chứng chỉ Giáo dục Quốc phòng - An ninh, chứng chỉ Giáo dục Thể chất, và đạt chuẩn đầu ra về Ngoại ngữ (B1/A2) và Tin học theo quy định hiện hành của Đại học Huế."
+  },
+  {
+    "id": "q030",
+    "question": "Trường hợp nào sinh viên bị hạ bậc xếp loại tốt nghiệp từ Giỏi xuống Khá?",
+    "ground_truth": "Sẽ bị giảm một bậc nếu khối lượng tín chỉ học lại vượt quá 5% tổng số tín chỉ của chương trình, hoặc sinh viên đã từng bị kỷ luật từ mức Cảnh cáo trở lên trong suốt khóa học."
+  },
+  {
+    "id": "q031",
+    "question": "So sánh mức học phí năm học 2024-2025 giữa hệ Đại học chính quy và hệ Vừa làm vừa học đối với khối ngành IV (Khoa học sự sống).",
+    "ground_truth": "Đối với khối ngành IV (Khoa học sự sống, khoa học tự nhiên) năm học 2024-2025: Hệ Đại học Chính quy có mức thu là 445.000 đồng/1 tín chỉ; trong khi đó hệ Vừa làm vừa học có mức thu cao hơn là 600.000 đồng/1 tín chỉ. Sự chênh lệch này được quy định rõ trong Quyết định số 685/QĐ-ĐHKH."
+  },
+  {
+    "id": "q032",
+    "question": "Hãy mô tả quy trình đầy đủ gồm 5 bước để xét kỷ luật một sinh viên vi phạm quy chế.",
+    "ground_truth": "Quy trình xét kỷ luật gồm các bước: 1. Sinh viên làm bản kiểm điểm; 2. Tập thể lớp họp để kiểm điểm và đề nghị hình thức kỷ luật; 3. Khoa họp xét và gửi biên bản lên Phòng Công tác Sinh viên; 4. Hội đồng khen thưởng kỷ luật nhà trường họp xét chọn; 5. Hiệu trưởng ra quyết định kỷ luật bằng văn bản."
+  },
+  {
+    "id": "q033",
+    "question": "Mức học bổng Khuyến khích học tập loại Giỏi khác biệt như thế nào so với loại Khá và loại Xuất sắc?",
+    "ground_truth": "Mức học bổng loại Giỏi bằng 125% mức học bổng loại Khá (Loại Khá bằng mức trần học phí hiện hành). Trong khi đó, loại Xuất sắc cao nhất, bằng 150% mức học bổng loại Khá. Điều kiện xét là sinh viên phải đạt kết quả học tập và rèn luyện tương ứng."
+  },
+  {
+    "id": "q034",
+    "question": "Phân tích sự khác biệt về chuẩn đầu ra ngoại ngữ không chuyên giữa khóa tuyển sinh 2013 và các khóa từ 2014 trở về sau.",
+    "ground_truth": "Theo Quyết định 1492/QĐ-ĐHH: Sinh viên khóa tuyển sinh 2013 chỉ cần đạt bậc 2/6 (A2). Tuy nhiên, đối với sinh viên từ khóa tuyển sinh 2014 trở về sau, yêu cầu cao hơn là phải đạt bậc 3/6 (B1) mới đủ điều kiện tốt nghiệp."
+  },
+  {
+    "id": "q035",
+    "question": "So sánh điều kiện để được 'miễn học toàn bộ môn học' và 'tạm hoãn học' môn Giáo dục Quốc phòng An ninh.",
+    "ground_truth": "Được miễn toàn bộ nếu: là sĩ quan dự bị, có bằng tốt nghiệp trường quân đội/công an, hoặc là sinh viên quốc tế. Được tạm hoãn nếu: gặp vấn đề sức khỏe dài hạn (có giấy bệnh viện) hoặc sinh viên nữ đang mang thai/nghỉ thai sản; sau thời gian hoãn phải học bù."
+  },
+  {
+    "id": "q036",
+    "question": "Trình bày chi tiết các quy định về định dạng trình bày một bài thi tiểu luận (khổ giấy, phông chữ, canh lề).",
+    "ground_truth": "Bài tiểu luận phải trình bày trên khổ giấy A4, sử dụng phông chữ Times New Roman, cỡ chữ 13, dãn dòng 1.5 lines. Quy định canh lề là: Lề trên 2.0cm, Lề dưới 2.0cm, Lề trái 3.0cm và Lề phải 2.0cm. File nộp cuối cùng phải là định dạng PDF."
+  },
+  {
+    "id": "q037",
+    "question": "Nếu sinh viên muốn đăng ký học cùng lúc hai chương trình đào tạo thì cần thỏa mãn những điều kiện tiên quyết nào?",
+    "ground_truth": "Sinh viên phải là sinh viên năm thứ 2 trở đi. Điều kiện về học lực: Phải xếp loại học lực Khá trở lên ở chương trình thứ nhất để đăng ký; hoặc có thể xếp loại Trung bình nhưng phải đáp ứng điều kiện trúng tuyển của chương trình thứ hai."
+  },
+  {
+    "id": "q038",
+    "question": "Giải thích cách tính mức thu học phí cho sinh viên diện miễn giảm khi tham gia học Giáo dục Quốc phòng.",
+    "ground_truth": "Mức thu học phí GDQP chuẩn là 1.350.000 đồng/chứng chỉ. Sinh viên được miễn giảm sẽ đóng theo tỷ lệ: Miễn 100% (đóng 0 đồng); Miễn 70% (đóng 405.000 đồng); Miễn 50% (đóng 675.000 đồng); và Miễn 30% (đóng 945.000 đồng)."
+  },
+  {
+    "id": "q039",
+    "question": "Hành vi sử dụng thẻ sinh viên sai mục đích và hành vi cho mượn thẻ sinh viên bị xử lý kỷ luật khác nhau như thế nào?",
+    "ground_truth": "Hành vi 'Mượn hoặc cho mượn thẻ sinh viên' bị xử lý Khiển trách hoặc Cảnh cáo tùy mức độ. Hành vi 'Sử dụng sai mục đích thẻ sinh viên' (ví dụ dùng vào việc phi pháp) nếu vi phạm lần 1 bị Khiển trách, tái phạm lần 2 sẽ bị Cảnh cáo. Cả hai đều bị xem xét trừ điểm rèn luyện."
+  },
+  {
+    "id": "q040",
+    "question": "So sánh mức học phí đào tạo Tiến sĩ của khối ngành V và khối ngành VII trong năm học 2024-2025.",
+    "ground_truth": "Năm học 2024-2025, học phí Tiến sĩ khối ngành V (Kỹ thuật, Máy tính...) là 18.300.000 đồng/học kỳ, cao hơn đáng kể so với khối ngành VII (Nhân văn, Báo chí...) là 14.868.000 đồng/học kỳ. Mức chênh lệch là khoảng 3.432.000 đồng mỗi học kỳ."
+  },
+  {
+    "id": "q041",
+    "question": "Điều kiện để một sinh viên được xét nghỉ học tạm thời và bảo lưu kết quả là gì?",
+    "ground_truth": "Sinh viên được nghỉ tạm thời nếu thuộc các trường hợp: Được điều động vào lực lượng vũ trang; Bị ốm đau, tai nạn buộc phải điều trị dài hạn (có giấy xác nhận y tế); hoặc Vì nhu cầu cá nhân (nhưng phải học ít nhất 1 học kỳ và điểm không quá kém). Thời gian nghỉ tính vào thời gian tối đa hoàn thành khóa học."
+  },
+  {
+    "id": "q042",
+    "question": "Hãy liệt kê các thành phần bắt buộc phải có trong bố cục của một bài thi tiểu luận theo đúng thứ tự quy định.",
+    "ground_truth": "Bố cục bài tiểu luận bắt buộc gồm 7 phần theo thứ tự: 1. Danh mục từ viết tắt; 2. Mục lục; 3. Phần Mở đầu; 4. Phần Nội dung; 5. Phần Kết luận/Kiến nghị; 6. Tài liệu tham khảo; 7. Phụ lục (nếu có). Thiếu một trong các phần này có thể bị trừ điểm hình thức."
+  },
+  {
+    "id": "q043",
+    "question": "Sự khác biệt về hình thức kỷ luật giữa hành vi 'Thi hộ' lần 1 và hành vi 'Đánh nhau, gây rối trật tự' lần 1 là gì?",
+    "ground_truth": "Hành vi 'Thi hộ hoặc nhờ thi hộ' vi phạm lần 1 bị xử lý rất nặng là Đình chỉ học tập 01 năm. Trong khi đó, hành vi 'Đánh nhau, gây rối trật tự' lần 1 thường bị xử lý ở mức Cảnh cáo (trừ khi gây hậu quả nghiêm trọng mới bị xử lý nặng hơn)."
+  },
+  {
+    "id": "q044",
+    "question": "Theo quy chế học vụ, điểm F, điểm I và điểm X khác nhau như thế nào về ý nghĩa?",
+    "ground_truth": "Điểm F (<4.0) là điểm 'Không đạt', sinh viên bắt buộc phải học lại. Điểm I là điểm 'Chưa hoàn thiện', dùng cho trường hợp hoãn thi có lý do chính đáng và được phép bổ sung sau. Điểm X là điểm 'Chưa có kết quả' do giảng viên chưa nhập hoặc đang chờ xử lý."
+  },
+  {
+    "id": "q045",
+    "question": "Quy trình chuyển đổi điểm tương đương cho chứng chỉ TOEIC sang điểm ngoại ngữ miễn học phần yêu cầu những tiêu chí gì về 4 kỹ năng?",
+    "ground_truth": "Quy định đặc biệt cho TOEIC: Không chỉ xét tổng điểm, sinh viên bắt buộc phải thi đủ 4 kỹ năng. Cụ thể: phần Speaking & Writing phải đạt mỗi phần tối thiểu 120 điểm; phần Listening & Reading phải đạt tối thiểu 450 điểm mới được công nhận tương đương B1."
+  },
+  {
+    "id": "q046",
+    "question": "Sinh viên ngoại trú có trách nhiệm gì trong việc đăng ký tạm trú và thông báo địa chỉ cho nhà trường?",
+    "ground_truth": "Sinh viên ngoại trú phải đăng ký tạm trú với công an xã/phường sở tại. Đồng thời, sinh viên có nghĩa vụ báo địa chỉ ngoại trú cụ thể cho nhà trường trong vòng 30 ngày kể từ khi nhập học và phải báo lại trong vòng 20 ngày nếu có sự thay đổi chỗ ở."
+  },
+  {
+    "id": "q047",
+    "question": "Phân tích mối quan hệ giữa kết quả rèn luyện và việc xét học bổng khuyến khích học tập.",
+    "ground_truth": "Kết quả rèn luyện là điều kiện cần để xác định mức học bổng. Dù học lực Giỏi nhưng rèn luyện chỉ đạt Khá thì chỉ nhận học bổng mức Khá. Để nhận học bổng mức Giỏi, rèn luyện phải đạt Tốt. Để nhận mức Xuất sắc, rèn luyện phải đạt Xuất sắc. Rèn luyện dưới Khá không được xét học bổng."
+  },
+  {
+    "id": "q048",
+    "question": "Quy định về thời gian thăm gặp sinh viên đang học Giáo dục Quốc phòng tập trung tại Trung tâm là như thế nào?",
+    "ground_truth": "Trong tuần (thứ 2 đến thứ 6) không giải quyết thăm gặp. Phụ huynh và bạn bè chỉ được thăm gặp vào: Tối thứ 7 (từ 17h30 đến 20h45) và ngày Chủ nhật (Sáng 07h30 - 10h45; Chiều 13h30 - 20h00) tại khu vực quy định của Trung tâm."
+  },
+  {
+    "id": "q049",
+    "question": "Hệ thống cố vấn học tập và ban cán sự lớp phối hợp như thế nào trong cơ cấu tổ chức quản lý sinh viên?",
+    "ground_truth": "Cố vấn học tập (giảng viên) đóng vai trò tư vấn, hướng dẫn quy chế đào tạo cho sinh viên. Ban cán sự lớp (Lớp trưởng, Lớp phó) do lớp bầu ra, chịu trách nhiệm tổ chức sinh hoạt, đôn đốc học tập và giữ mối liên hệ chặt chẽ với Cố vấn học tập để phản ánh tình hình lớp."
+  },
+  {
+    "id": "q050",
+    "question": "Sinh viên thuộc đối tượng nào được giảm 70% học phí theo Nghị định 81 và điều kiện đi kèm là gì?",
+    "ground_truth": "Sinh viên được giảm 70% học phí nếu là người dân tộc thiểu số (không phải dân tộc thiểu số rất ít người) và đang sinh sống tại các thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo."
+  }
+]

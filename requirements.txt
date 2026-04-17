@@ -1,0 +1,10 @@
+# Bộ thư viện cần cài trước khi chạy
+torch
+transformers
+sentence-transformers
+bitsandbytes
+accelerate
+rank_bm25
+streamlit
+pyngrok
+numpy

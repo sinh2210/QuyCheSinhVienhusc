@@ -1,0 +1,18 @@
+# Token ngrok – KHÔNG đẩy lên GitHub!
+token.txt
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Model cache HuggingFace (rất nặng)
+*.bin
+*.safetensors
+
+# Checkpoint
+*.pt
+*.ckpt
+
+*.zip
